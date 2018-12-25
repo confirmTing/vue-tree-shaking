@@ -1,3 +1,3 @@
-import {A} from './vue-compontents/index'
+import {A} from './vue-components/index'
 
 console.log(A);
